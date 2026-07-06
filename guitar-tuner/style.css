@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Playwrite+HU:wght@100..400&display=swap');
+
+body {
+    background-color: rgb(107, 57, 7);
+    font-family: "Playwrite HU", 'Times New Roman';
+    display: flex;
+    justify-content: center;
+}
+
+.menu-background {
+    margin: 4%;
+    border-radius: 25px;
+    background-color: rgba(240, 218, 180, 0.475);
+    width: 70%;
+    max-width: 700px;
+    min-height: fit-content;
+}
+
+h1 {
+    display: flex;
+    font-family: "Archivo Black", 'Times New Roman';
+    justify-content: center;
+    margin: 2em 0;
+}
+
+hr {
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.about {
+    margin: 4em 2em;
+    text-align: center;
+}
+
+.keys {
+    margin: 6em 5em;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+button {
+    width: 35%;
+    margin-bottom: 3em;
+    border-radius: 25px;
+    border: 0;
+    font-size: large;
+    background-color: goldenrod;
+    border: 2px solid transparent;
+    text-align: center;
+}
+
+button:hover {
+    background-color: rgb(192, 192, 140);
+    border: 2px solid lightgray;
+}

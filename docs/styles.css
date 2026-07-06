@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Margarine&family=Montenegrin+Gothic+One&family=Oswald:wght@200..700&display=swap');
+
+h1 {
+    font-family: 'Oswald', Courier, monospace;
+    text-align: center;
+}
+
+nav {
+    margin: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    font-family: 'Oswald';
+    font-size: x-large;
+    color: black;
+    text-decoration: none;
+}

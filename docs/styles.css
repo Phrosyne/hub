@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Margarine&family=Montenegrin+Gothic+One&family=Oswald:wght@200..700&display=swap');
 
+body {
+    background-color: lightblue;
+}
 h1 {
     font-family: 'Oswald', Courier, monospace;
     text-align: center;
